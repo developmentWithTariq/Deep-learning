@@ -4,3 +4,4 @@ Prediction data is genrated by me ,i had Downloaded images from google and crope
 
 
 By contineusly working i do this with Separable Convolution2D and got testing accuracy of 99 
+you can see this beauty_and_average_face.ipynb
